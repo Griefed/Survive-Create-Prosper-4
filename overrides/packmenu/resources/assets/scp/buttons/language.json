@@ -1,0 +1,17 @@
+{
+	"x": -50,
+	"y": -93,
+	"width": 20,
+	"height": 20,
+	"u": 0,
+	"v": 20,
+	"hoverU": 0,
+	"hoverV": 0,
+	"texWidth": 20,
+	"texHeight": 40,
+	"widgets": false,
+	"texture": "scp:textures/gui/button_language.png",
+	"action": "OPEN_GUI",
+	"data": "LANGUAGE",
+	"anchor": "MIDDLE_CENTER"
+}

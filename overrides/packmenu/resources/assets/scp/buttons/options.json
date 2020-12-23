@@ -1,0 +1,22 @@
+{
+	"x": 74,
+	"y": -57,
+	"width": 120,
+	"height": 30,
+	"u": 0,
+	"v": 30,
+	"hoverU": 0,
+	"hoverV": 0,
+	"texWidth": 120,
+	"texHeight": 60,
+	"texture": "scp:textures/gui/button_options.png",
+	"fontColor": 3298136,
+	"hoverFontColor": 12648430,
+	"widgets": false,
+	"langKey": "menu.options",
+	"action": "OPEN_GUI",
+	"data": "OPTIONS",
+	"textXOffset": 10,
+	"dropShadow": true,
+	"anchor": "MIDDLE_CENTER"
+}
