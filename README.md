@@ -1,4 +1,4 @@
-![Voxelart](https://i.griefed.de/images/2020/12/11/snap2020-10-21-20-57-57.png)
+![Voxelart](https://i.griefed.de/images/2020/12/23/scp4.gif)
 
 **Voxelart by the wonderful and beautiful [SayuriRosa](https://twitter.com/Pondworth/status/1341556367346249729)**
 
