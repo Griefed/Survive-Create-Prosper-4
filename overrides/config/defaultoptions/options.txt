@@ -23,7 +23,7 @@ fov:0.5
 screenEffectScale:1.0
 fovEffectScale:0.0
 gamma:0.30603542923927307
-renderDistance:10
+renderDistance:16
 entityDistanceScaling:1.0
 guiScale:4
 particles:1
@@ -67,7 +67,7 @@ hideMatchedNames:true
 joinedFirstServer:false
 syncChunkWrites:true
 soundCategory_master:0.7028146
-soundCategory_music:0.10387324
+soundCategory_music:0.15492958
 soundCategory_record:0.40140846
 soundCategory_weather:0.10387324
 soundCategory_block:0.40140846

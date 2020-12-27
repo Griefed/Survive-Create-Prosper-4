@@ -1,0 +1,84 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 27, 2020 12:31:24 AM
+
+#forge:gasoline
+- immersivepetroleum:gasoline
+
+#forge:steam
+- bigreactors:steam
+- bigreactors:steam_flowing
+
+#forge:lubricant
+- immersivepetroleum:lubricant
+
+#forge:crude_oil
+- immersivepetroleum:oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- securitycraft:fake_water
+- securitycraft:flowing_fake_water
+- undergarden:virulent_mix_source
+- undergarden:virulent_mix_flowing
+
+#forge:biodiesel
+- immersiveengineering:biodiesel
+
+#forge:herbicide
+- immersiveengineering:herbicide
+
+#forge:diesel
+- immersivepetroleum:diesel
+
+#minecraft:life
+- bloodmagic:life_essence_fluid
+- bloodmagic:life_essence_fluid_flowing
+- bloodmagic:life_essence_fluid
+- bloodmagic:life_essence_fluid_flowing
+
+#forge:plantoil
+- immersiveengineering:plantoil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- securitycraft:fake_lava
+- securitycraft:flowing_fake_lava
+
+#forge:ethanol
+- immersiveengineering:ethanol
+
+#decorative_blocks:thatch
+- thatched:beachgrass_thatch_still?
+- thatched:beachgrass_thatch_flowing?
+- thatched:cattail_thatch_still?
+- thatched:cattail_thatch_flowing?
+- thatched:duckweed_thatch_still?
+- thatched:duckweed_thatch_flowing?
+- thatched:frond_thatch_still?
+- thatched:frond_thatch_flowing?
+- thatched:grass_thatch_still?
+- thatched:grass_thatch_flowing?
+- thatched:reed_thatch_still?
+- thatched:reed_thatch_flowing?
+- thatched:yak_hair_fluid_still?
+- thatched:yak_hair_fluid_flowing?
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:creosote
+- immersiveengineering:creosote
+
+#appliedenergistics2:blacklisted/fluid_annihilation_plane
+
+#forge:concrete
+- immersiveengineering:concrete
+
+#forge:xp_juice
+- xreliquary:xp_juice_still
+
+#forge:potion
+- immersiveengineering:potion
+
+#forge:napalm
+- immersivepetroleum:napalm
