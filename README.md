@@ -14,7 +14,7 @@
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>Botania, Blood Magic, Psi and other mods aim to quell your hunger for magical prowess.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
-<p style="text-align: center;"><strong>A variety of useful, decorative or cool mods like Artifacts, Camera Mod, Cooking for Blockheads, Pam's Harvestcraft, Macaw's mods, Mystical Agriculture and addons, Paintings++, The Undergarden and lots of other mods add to the world, so you will always have something to explore, build, decorate or create.</strong></p>
+<p style="text-align: center;"><strong>A variety of useful, decorative or cool mods like Artifacts, Camera Mod, Cooking for Blockheads, Pam's Harvestcraft, Macaw's mods, Mystical Agriculture and addons, Paintings++ and lots of other mods add to the world, so you will always have something to explore, build, decorate or create.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>That's just a small example of what's included in SCP. So go ahead and give it a try! See the modlist below to see whether there's something of interest for you!</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
