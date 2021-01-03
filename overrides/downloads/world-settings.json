@@ -5,10 +5,10 @@
       "type": "minecraft:overworld",
       "generator": {
         "biome_source": {
-          "seed": -9359359562672143796,
+          "seed": 848776780,
           "type": "minecraft:biomesoplenty_overworld"
         },
-        "seed": -9359359562672143796,
+        "seed": 848776780,
         "settings": "minecraft:overworld",
         "type": "minecraft:noise"
       }
@@ -17,10 +17,10 @@
       "type": "minecraft:the_nether",
       "generator": {
         "biome_source": {
-          "seed": -9359359562672143796,
+          "seed": 848776780,
           "type": "byg:bygnether"
         },
-        "seed": -9359359562672143796,
+        "seed": 848776780,
         "settings": "minecraft:nether",
         "type": "minecraft:noise"
       }
@@ -29,178 +29,15 @@
       "type": "minecraft:the_end",
       "generator": {
         "biome_source": {
-          "seed": -9359359562672143796,
+          "seed": 848776780,
           "type": "byg:bygend"
         },
-        "seed": -9359359562672143796,
+        "seed": 848776780,
         "settings": "minecraft:end",
-        "type": "minecraft:noise"
-      }
-    },
-    "undergarden:undergarden": {
-      "type": "undergarden:undergarden",
-      "generator": {
-        "biome_source": {
-          "humidity_noise": {
-            "firstOctave": -7,
-            "amplitudes": [
-              1.0,
-              1.0
-            ]
-          },
-          "altitude_noise": {
-            "firstOctave": -7,
-            "amplitudes": [
-              1.0,
-              1.0
-            ]
-          },
-          "weirdness_noise": {
-            "firstOctave": -7,
-            "amplitudes": [
-              1.0,
-              1.0
-            ]
-          },
-          "seed": 0,
-          "biomes": [
-            {
-              "parameters": {
-                "altitude": 0.0,
-                "weirdness": 0.0,
-                "offset": 0.0,
-                "temperature": 0.0,
-                "humidity": 0.0
-              },
-              "biome": "undergarden:forgotten_field"
-            },
-            {
-              "parameters": {
-                "altitude": 0.5,
-                "weirdness": 0.0,
-                "offset": 0.0,
-                "temperature": 0.0,
-                "humidity": 0.0
-              },
-              "biome": "undergarden:mushroom_bog"
-            },
-            {
-              "parameters": {
-                "altitude": 0.4,
-                "weirdness": 0.0,
-                "offset": 0.0,
-                "temperature": 0.0,
-                "humidity": 0.0
-              },
-              "biome": "undergarden:smogstem_forest"
-            },
-            {
-              "parameters": {
-                "altitude": 0.2,
-                "weirdness": 0.0,
-                "offset": 0.0,
-                "temperature": 0.0,
-                "humidity": 0.0
-              },
-              "biome": "undergarden:wigglewood_forest"
-            },
-            {
-              "parameters": {
-                "altitude": 0.4,
-                "weirdness": 0.5,
-                "offset": 0.0,
-                "temperature": 0.0,
-                "humidity": 0.0
-              },
-              "biome": "undergarden:dense_forest"
-            },
-            {
-              "parameters": {
-                "altitude": 0.0,
-                "weirdness": 0.375,
-                "offset": 0.0,
-                "temperature": 0.0,
-                "humidity": 0.5
-              },
-              "biome": "undergarden:gronglegrowth"
-            },
-            {
-              "parameters": {
-                "altitude": 0.0,
-                "weirdness": -0.5,
-                "offset": 0.0,
-                "temperature": 0.0,
-                "humidity": 0.0
-              },
-              "biome": "undergarden:barren_abyss"
-            },
-            {
-              "parameters": {
-                "altitude": 0.0,
-                "weirdness": 0.5,
-                "offset": 0.0,
-                "temperature": 0.0,
-                "humidity": 0.375
-              },
-              "biome": "undergarden:smog_spires"
-            }
-          ],
-          "temperature_noise": {
-            "firstOctave": -7,
-            "amplitudes": [
-              1.0,
-              1.0
-            ]
-          },
-          "type": "minecraft:multi_noise"
-        },
-        "seed": 0,
-        "settings": {
-          "bedrock_roof_position": 0,
-          "bedrock_floor_position": 0,
-          "sea_level": 32,
-          "disable_mob_generation": false,
-          "structures": {
-            "structures": {}
-          },
-          "noise": {
-            "density_factor": 0.0,
-            "density_offset": 0.019921875,
-            "simplex_surface_noise": false,
-            "bottom_slide": {
-              "target": 320,
-              "size": 4,
-              "offset": -1
-            },
-            "size_horizontal": 2,
-            "size_vertical": 2,
-            "height": 256,
-            "sampling": {
-              "xz_scale": 1.0,
-              "y_scale": 3.0,
-              "xz_factor": 80.0,
-              "y_factor": 60.0
-            },
-            "top_slide": {
-              "target": 120,
-              "size": 3,
-              "offset": 0
-            }
-          },
-          "default_block": {
-            "Name": "undergarden:depthrock"
-          },
-          "default_fluid": {
-            "Properties": {
-              "level": "0"
-            },
-            "Name": "minecraft:water"
-          }
-        },
         "type": "minecraft:noise"
       }
     }
   },
-  "seed": -9359359562672143796,
+  "seed": 848776780,
   "generate_features": true
 }

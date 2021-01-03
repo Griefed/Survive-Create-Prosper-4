@@ -17,6 +17,8 @@
 	"Enable Footprint Particles" = true
 	#Enable armor rustle and rain splash accents for footstep acoustics
 	"Enable Footstep Accents" = true
+	#Enable replacement of footstep sounds with acoustic versions
+	"Enable Footprint Sound Effects" = true
 	#Style of footprint to display for a player
 	#Allowed Values: SHOE, SQUARE, HORSESHOE, BIRD, PAW, SQUARE_SOLID, LOWRES_SQUARE
 	"Player Footprint Style" = "LOWRES_SQUARE"
