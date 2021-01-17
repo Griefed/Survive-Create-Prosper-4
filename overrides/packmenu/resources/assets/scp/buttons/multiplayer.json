@@ -1,0 +1,22 @@
+{
+	"x": -194,
+	"y": 27,
+	"width": 120,
+	"height": 30,
+	"u": 0,
+	"v": 30,
+	"hoverU": 0,
+	"hoverV": 0,
+	"texWidth": 120,
+	"texHeight": 60,
+	"texture": "scp:textures/gui/button_multiplayer.png",
+	"fontColor": 3298136,
+	"hoverFontColor": 12648430,
+	"widgets": false,
+	"langKey": "menu.multiplayer",
+	"action": "OPEN_GUI",
+	"data": "MULTIPLAYER",
+	"dropShadow": true,
+	"textXOffset": -10,
+	"anchor": "MIDDLE_CENTER"
+}
