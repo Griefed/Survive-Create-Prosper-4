@@ -1,8 +1,0 @@
-
-#General mod config
-["Generic Config"]
-	#If set to false, the World Name Randomizer won't do anything at all.
-	randomizerEnabled = true
-	#If set to false, the World Name Randomizer will not touch upon the world's seed field, only altering the name.
-	randomizeSeed = true
-
