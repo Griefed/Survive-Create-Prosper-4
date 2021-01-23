@@ -15,10 +15,6 @@
 	BloodMoonRedClouds = true
 
 [Harvest_Moon_Settings]
-	#The chance of a harvest moon occurring each night. Chance is rolled at the daytime 13005.
-	#Default 0.025
-	#Range: 0.0 ~ 1.0
-	BloodMoonChance = 0.025
 	#Multiplies the rate at which crops grow during harvest moons.
 	#Default 15.0
 	#Range: 1.0 ~ 10000.0
@@ -27,4 +23,8 @@
 	#Default 2.0
 	#Range: 1.0 ~ 1000.0
 	CropItemDropMultiplier = 2.5
+	#The chance of a harvest moon occurring each night. Chance is rolled at the daytime 13005.
+	#Default 0.025
+	#Range: 0.0 ~ 1.0
+	HarvestMoonChance = 0.025
 
