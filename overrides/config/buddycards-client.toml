@@ -9,11 +9,11 @@
 	#Range: 0.0 ~ 1.0
 	piglinChance = 0.2
 	#
-	#Odds of ender dragons dropping end set packs, 0 for 0%, 1 for 100%, default is 100%
+	#Odds of withers dropping nether set packs, 0 for 0%, 1 for 100%, default is 50%
 	#Range: 0.0 ~ 1.0
 	dragonChance = 1.0
 	#
-	#Maximum amount of packs dropped when a dragon drops packs, default is 4
+	#Maximum amount of packs dropped when a wither drops packs, default is 3
 	#Range: 1 ~ 16
 	dragonMaxPacks = 4
 	#

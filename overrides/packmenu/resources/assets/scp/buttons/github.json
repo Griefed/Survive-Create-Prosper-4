@@ -1,6 +1,6 @@
 {
-	"x": -144,
-	"y": 75,
+	"x": -145,
+	"y": 78,
 	"width": 120,
 	"height": 30,
 	"u": 0,
@@ -16,7 +16,7 @@
 	"action": "OPEN_URL",
 	"langKey": "packmenu.github",
 	"data": "https://github.com/Griefed/Survive-Create-Prosper-4",
-	"textXOffset": -10,
+	"textXOffset": -14,
 	"dropShadow": true,
 	"anchor": "MIDDLE_CENTER"
 }

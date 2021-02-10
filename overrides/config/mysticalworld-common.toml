@@ -104,6 +104,23 @@
 		#The dimensions that this ore should spawn in as a list (default ["minecraft:overworld"])
 		dimensions = ["minecraft:overworld"]
 
+	#Quartz ore generation.
+	[oregen.Quartz_oregen]
+		#Number of veins per chunk (set to 0 to disable).
+		#Range: 0 ~ 256
+		oreChances = 13
+		#Max size of the vein.
+		#Range: 1 ~ 256
+		veinSize = 4
+		#Number of veins per chunk (set to 0 to disable).
+		#Range: 0 ~ 256
+		minY = 24
+		#Number of veins per chunk (set to 0 to disable).
+		#Range: 0 ~ 256
+		maxY = 76
+		#The dimensions that this ore should spawn in as a list (default ["minecraft:overworld"])
+		dimensions = ["minecraft:overworld"]
+
 #Feature Spawn Configuration
 [feature_spawns]
 
@@ -322,4 +339,151 @@
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
 		spawnChance = 6
+
+#Armor Configuration
+[armor_config]
+
+	#Configuration for carapace armor
+	[armor_config.carapace_armor]
+		#Armor value for chest piece
+		#Range: > 0
+		chest_armor = 0
+		#Armor value for feet piece
+		#Range: > 0
+		feet_armor = 3
+		#Armor value for head piece
+		#Range: > 0
+		head_armor = 0
+		#Armor value for legs piece
+		#Range: > 0
+		legs_armor = 0
+		#Toughness for armor made of this material
+		#Range: 0.0 ~ 1.7976931348623157E308
+		toughness = 1.0
+
+	#Configuration for quicksilver armor
+	[armor_config.quicksilver_armor]
+		#Armor value for chest piece
+		#Range: > 0
+		chest_armor = 5
+		#Armor value for feet piece
+		#Range: > 0
+		feet_armor = 1
+		#Armor value for head piece
+		#Range: > 0
+		head_armor = 2
+		#Armor value for legs piece
+		#Range: > 0
+		legs_armor = 3
+		#Toughness for armor made of this material
+		#Range: 0.0 ~ 1.7976931348623157E308
+		toughness = 0.0
+
+	#Configuration for tin armor
+	[armor_config.tin_armor]
+		#Armor value for chest piece
+		#Range: > 0
+		chest_armor = 5
+		#Armor value for feet piece
+		#Range: > 0
+		feet_armor = 1
+		#Armor value for head piece
+		#Range: > 0
+		head_armor = 2
+		#Armor value for legs piece
+		#Range: > 0
+		legs_armor = 4
+		#Toughness for armor made of this material
+		#Range: 0.0 ~ 1.7976931348623157E308
+		toughness = 0.0
+
+	#Configuration for antler armor
+	[armor_config.antler_armor]
+		#Armor value for chest piece
+		#Range: > 0
+		chest_armor = 0
+		#Armor value for feet piece
+		#Range: > 0
+		feet_armor = 3
+		#Armor value for head piece
+		#Range: > 0
+		head_armor = 0
+		#Armor value for legs piece
+		#Range: > 0
+		legs_armor = 0
+		#Toughness for armor made of this material
+		#Range: 0.0 ~ 1.7976931348623157E308
+		toughness = 1.0
+
+	#Configuration for copper armor
+	[armor_config.copper_armor]
+		#Armor value for chest piece
+		#Range: > 0
+		chest_armor = 6
+		#Armor value for feet piece
+		#Range: > 0
+		feet_armor = 2
+		#Armor value for head piece
+		#Range: > 0
+		head_armor = 2
+		#Armor value for legs piece
+		#Range: > 0
+		legs_armor = 5
+		#Toughness for armor made of this material
+		#Range: 0.0 ~ 1.7976931348623157E308
+		toughness = 0.0
+
+	#Configuration for silver armor
+	[armor_config.silver_armor]
+		#Armor value for chest piece
+		#Range: > 0
+		chest_armor = 5
+		#Armor value for feet piece
+		#Range: > 0
+		feet_armor = 1
+		#Armor value for head piece
+		#Range: > 0
+		head_armor = 2
+		#Armor value for legs piece
+		#Range: > 0
+		legs_armor = 3
+		#Toughness for armor made of this material
+		#Range: 0.0 ~ 1.7976931348623157E308
+		toughness = 0.0
+
+	#Configuration for amethyst armor
+	[armor_config.amethyst_armor]
+		#Armor value for chest piece
+		#Range: > 0
+		chest_armor = 8
+		#Armor value for feet piece
+		#Range: > 0
+		feet_armor = 3
+		#Armor value for head piece
+		#Range: > 0
+		head_armor = 3
+		#Armor value for legs piece
+		#Range: > 0
+		legs_armor = 6
+		#Toughness for armor made of this material
+		#Range: 0.0 ~ 1.7976931348623157E308
+		toughness = 2.0
+
+	#Configuration for lead armor
+	[armor_config.lead_armor]
+		#Armor value for chest piece
+		#Range: > 0
+		chest_armor = 6
+		#Armor value for feet piece
+		#Range: > 0
+		feet_armor = 2
+		#Armor value for head piece
+		#Range: > 0
+		head_armor = 2
+		#Armor value for legs piece
+		#Range: > 0
+		legs_armor = 5
+		#Toughness for armor made of this material
+		#Range: 0.0 ~ 1.7976931348623157E308
+		toughness = 1.0
 

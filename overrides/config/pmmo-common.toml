@@ -77,6 +77,8 @@
 	#Every how many levels does 1 charge become worth +1 hardness? (If this is set to 32, your level is 50, and you have 64 charge, you can vein (50 / 160) * 320 = 100 hardness worth of logs, which is 50 Logs)
 	#Range: 0.01 ~ 10000.0
 	levelsPerHardnessWoodcutting = 160.0
+	#Should blocks broken by veining damage your tool?
+	damageToolWhileVeining = true
 
 ["Mob Scaling"]
 	#What is the maximum amount an aggressive mob's speed will be boosted?
@@ -438,6 +440,9 @@
 	alwaysUseUpgradeChance = false
 	#Do Furnaces produce extra items according to Item Owner Smithing level?
 	smeltingEnabled = true
+	#From what level can you salvage from both hands at the same time?
+	#Range: 1 ~ 99999
+	dualSalvageSmithingLevelReq = 50
 
 [Cooking]
 	#Do players get xp for Cooking items in Furnaces/Smokers/Fireplaces?
