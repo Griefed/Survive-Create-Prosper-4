@@ -14,9 +14,6 @@
 	#The radius around the portal to which the nether blocks can spread.
 	#Range: 1 ~ 100
 	portalSpreadRadius = 30
-	#The delay in ms in between the spread around the nether portal.
-	#Range: 20 ~ 360000
-	spreadDelay = 2500
 	#When enabled, shows the portal coordinates in portal messages.
 	prefixPortalCoordsInMessage = true
 	#The block which prevents the nether portal from spreading. By default a coal block (minecraft:coal_block is the namespace ID).
@@ -29,4 +26,7 @@
 	messageOnPortalBroken = "With the nether portal broken, the corrupted energy is no longer able to enter the overworld."
 	#When enabled, sends a message to players around the portal that the nether is spreading and that you can stop the spread with 'preventSpreadBlockAmountNeeded' of the 'preventSpreadBlockString' block.
 	sendMessageOnPortalCreation = true
+	#The delay in ticks in between the spread around the nether portal. 20 ticks = 1 second.
+	#Range: 1 ~ 72000
+	spreadDelayTicks = 40
 

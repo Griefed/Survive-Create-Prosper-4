@@ -12,6 +12,8 @@
 	#At what durability percentage should the xp bonus go away fully at and below? (25 means at 25% or below durability, there is no longer any xp boost)
 	#Range: 0.0 ~ 100.0
 	scaleXpBoostByDurabilityStart = 0.0
+	#Should Xp gains be logged in debug.log?
+	logXpGainedInDebugLog = false
 
 [Party]
 	#How much bonus xp a Party gains extra, per player? (5 = 1 player -> 5% xp bonus, 2 players -> 10% xp bonus
@@ -47,8 +49,8 @@
 	#Every how many levels does 1 charge become worth +1 hardness? (If this is set to 16, your level is 50, and you have 64 charge, you can vein (50 / 320) * 320 = 50 hardness worth of ground, which is 100 Dirt)
 	#Range: 0.01 ~ 10000.0
 	levelsPerHardnessExcavation = 320.0
-	#How much hunger should be exhausted per block veined?
-	#Range: 0.0 ~ 20.0
+	#Boost in veining ability dependant on your tool's speed (5 is fairly balanced, raising this number makes tools more powerful while veining)
+	#Range: 1.0E-9 ~ 1.0E9
 	exhaustionPerBlock = 0.2
 	#Should a succesful sleep recharge every player currently in that world Vein Charge?
 	sleepRechargesAllPlayersVeinCharge = true
@@ -293,6 +295,16 @@
 	#What is the minimum amount xp grows a set amount of time? (Default 0.2, increase to speed up growth)
 	#Range: 0.01 ~ 100.0
 	minXpGrow = 5.0
+	#Should World Xp Drops appear when xp is gained?
+	worldXpDropsEnabled = true
+	#Should World Xp Drops Skill appear?
+	worldXpDropsShowSkill = true
+	#Value by which World Xp Drops Size is scaled (2 = twice as big)
+	#Range: 0.01 ~ 100.0
+	worldXpDropsSizeMultiplier = 1.0
+	#How far (Max) should World Xp Drops be rotated (Degrees, either direction from flat)
+	#Range: 0.0 ~ 180.0
+	worldXpDropsDecaySpeedMultiplier = 1.0
 
 ["Breaking Speed"]
 	#How many blocks it takes to reach 0 Break Speed (will get capped by Minimum Breaking Speed)
@@ -569,4 +581,37 @@
 	autoGenerateRoundedValuesOnly = true
 	#Should Automatically generated values for Wearing be Combat instead of Endurance? (True = Combat, False = Endurance)
 	autoGenerateWearReqAsCombat = false
+	#Level Offset for all auto-generated Wear Requirements
+	#Range: -1000000.0 ~ 1000000.0
+	autoGenerateWearReqOffset = 0.0
+	#Level Offset for all auto-generated Weapon Requirements
+	#Range: -1000000.0 ~ 1000000.0
+	autoGenerateWeaponReqOffset = 0.0
+	#Level Offset for all auto-generated Tool Requirements
+	#Range: -1000000.0 ~ 1000000.0
+	autoGenerateToolReqOffset = 0.0
+	#Spam the log with every Auto Value generation?
+	outputAllAutoValuesToLog = false
+
+["Anti Cheese"]
+	#Should player xp rates be reduced while they afk?
+	antiCheeseEnabled = true
+	#How many points of Cheese is the maximum? (At maximum, the xp gain is at minimum, which is the minimumCheeseXpMultiplier value)
+	#Range: 1 ~ 1000000000
+	cheeseMaxStorage = 200
+	#How many points of Cheese do not contribute to the Cheese Xp Penalty? (This should always be lower than cheeseMaxStorage, otherwise it'd break.)
+	#Range: 1 ~ 1000000000
+	freeCheese = 100
+	#How many points of Cheese are reduced when the player is no longer afk? (10 means ten times as fast as gaining while afk)
+	#Range: 1 ~ 1000000000
+	activityCheeseReplenishSpeed = 10
+	#How often are Cheese Points Given/Taken? (5 means every 5 seconds)
+	#Range: 0.1 ~ 1.0E9
+	cheeseCheckFrequency = 5.0
+	#What is the minimum xp multiplier a player can reach by afking? (0.1 means 10% xp gained of what you'd gain while not afking at all)
+	#Range: 0.0 ~ 1.0
+	minimumCheeseXpMultiplier = 0.1
+	#When the Cheese Multiplier falls below this value, the player will get a warning to stop afking every Cheese Check (If this value is 1, any penalty will be displayed. 0 means no warnings will be displayed)
+	#Range: 0.0 ~ 1.0
+	sendPlayerCheeseWarningBelowMultiplier = 1.0
 

@@ -7,4 +7,6 @@
 	nbtCleaner = ["Damage", "Charged", "ChargedProjectiles"]
 	#Tool orientation, by class file and degrees. Separate with ":" . See defaults for examples.
 	toolOrientation = ["net.minecraft.item.ToolItem:180", "net.minecraft.item.HoeItem:180", "net.minecraft.item.FishingRodItem:180", "net.minecraft.item.TridentItem:180", "net.minecraft.item.ShootableItem:90"]
+	#Enabled tools, by their resource name. Eg: minecraft:diamond_hoe. Putting any entry in this converts BackTools to a whitelist-only mod. Disabled Tools will be ignored.
+	enabledTools = []
 
