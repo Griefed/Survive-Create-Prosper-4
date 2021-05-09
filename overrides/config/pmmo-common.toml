@@ -178,6 +178,8 @@
 	placeReqEnabled = true
 	#When a Wear requirement is not met, should the item be dropped?
 	strictReqWear = false
+	#Should Tinkers mod Materials requirements be enabled? false means no requirements
+	tinkersMaterialsReqEnabled = true
 
 [Levels]
 	#What is the global max level
@@ -216,6 +218,10 @@
 	levelsPerTotalLevelMilestone = 50
 	#Should players loose Percentage of Full Levels instead of Xp above Whole Level upon death?
 	deathLoosesLevels = false
+	#Should fireworks appear on Milestone level up, to anyone, by you?
+	spawnFireworksCausedByMe = true
+	#Should fireworks appear on Milestone level up, from other players?
+	spawnFireworksCausedByOthers = true
 
 [Multipliers]
 	#How much xp everyone gains on Peaceful Difficulty (1 = normal, 2 = twice as much)
@@ -312,6 +318,8 @@
 	#How far (Max) should World Xp Drops be rotated (Degrees, either direction from flat)
 	#Range: 0.0 ~ 180.0
 	worldXpDropsDecaySpeedMultiplier = 1.0
+	#Should World Xp Drops of other people show up for you?
+	showOthersWorldXpDrops = false
 
 ["Breaking Speed"]
 	#How many blocks it takes to reach 0 Break Speed (will get capped by Minimum Breaking Speed)
@@ -404,6 +412,9 @@
 	#Addition per level to hpRegenPerMinuteBase (if set to 0.01, every 100 Endurance levels, you regen 1 more half heart per 60 seconds, 0 means no extra regeneration)
 	#Range: 0.0 ~ 1000.0
 	hpRegenPerMinuteBoostPerLevel = 0.02
+	#Multiplier for xp gained in endurance from Regeneration
+	#Range: 0.0 ~ 1000000.0
+	hpRegenXpMultiplier = 15.23
 
 [Combat]
 	#How much percentage bonus damage do you get per Combat level in Melee?
@@ -485,6 +496,8 @@
 	#Underwater Nightvision Unlock Level
 	#Range: 0 ~ 1000000
 	nightvisionUnlockLevel = 25
+	#Is Underwater Nightvision enabled?
+	underwaterNightVision = true
 
 [Fishing]
 	#Should normal drops from Fishing be disabled?

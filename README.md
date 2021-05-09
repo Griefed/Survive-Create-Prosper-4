@@ -56,7 +56,6 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port">BetterEnd (Forge) (by Beethoven92)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-ping-display">Better Ping Display (by Quintinity)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O' Plenty (by Forstride)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/blame">Blame (Forge) (by telepathicgrunt)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/blood-magic">Blood Magic  (by WayofTime)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/bookshelf">Bookshelf (by DarkhaxDev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/botania">Botania (by Vazkii)</a></li>

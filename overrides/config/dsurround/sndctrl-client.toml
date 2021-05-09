@@ -21,6 +21,9 @@
 	"Occlude WEATHER Sounds" = false
 	#Occlude RECORDS sounds
 	"Occlude RECORDS Sounds" = false
+	#Number of streaming sound channels to configure
+	#Range: 8 ~ 16
+	"Streaming Sound Count" = 10
 
 #Defines parameters for special effects
 ["Effect Options"]

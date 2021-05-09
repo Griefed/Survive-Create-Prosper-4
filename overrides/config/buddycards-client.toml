@@ -41,14 +41,6 @@
 	#Range: 1 ~ 16
 	witherMaxPacks = 3
 
-[lootTables]
-	#
-	#Allow natural generation of packs in loot chests, default is true
-	lootChestPacks = true
-	#
-	#Allow packs to be obtained through Piglin bartering, default is true
-	piglinBartering = true
-
 [misc]
 	#
 	#Enables medal effects, default is true
@@ -73,15 +65,15 @@
 	#Range: 1 ~ 100
 	pointsUncommon = 2
 	#
-	#Base challenge points for rare cards, 1-100, default is 3
+	#Base challenge points for rare cards, 1-100, default is 4
 	#Range: 1 ~ 100
 	pointsRare = 3
 	#
-	#Base challenge points for epic cards, 1-100, default is 5
+	#Base challenge points for epic cards, 1-100, default is 8
 	#Range: 1 ~ 100
 	pointsEpic = 5
 	#
-	#Multiplier for challenge points on shiny cards, 0-10, default is 1.25
+	#Multiplier for challenge points on shiny cards, 0-10, default is 1.5
 	#Range: 0.0 ~ 10.0
 	shinyMultiplier = 1.25
 	#
@@ -105,7 +97,7 @@
 	#Range: 0.0 ~ 10.0
 	set5Multiplier = 1.0
 	#
-	#Multiplier for challenge points from fd set, 0-10, default is 1
+	#Multiplier for challenge points from aquaculture set, 0-10, default is 0.9
 	#Range: 0.0 ~ 10.0
 	set6Multiplier = 1.0
 	#
@@ -128,4 +120,22 @@
 	#Multiplier for challenge points with grade S, 0-10, default is 10
 	#Range: 0.0 ~ 10.0
 	grade5Multiplier = 10.0
+	#
+	#Multiplier for challenge points from fd set, 0-10, default is 1
+	#Range: 0.0 ~ 10.0
+	set7Multiplier = 1.0
+
+[enderling]
+	#
+	#Odds for an Enderling to spawn with an Enderman in the End, 0-1, default is 0.5%
+	#Range: 0.0 ~ 1.0
+	endOdds = 0.005
+	#
+	#Odds for an Enderling to spawn with an Enderman in the Nether, 0-1, default is 0.5%
+	#Range: 0.0 ~ 1.0
+	netherOdds = 0.005
+	#
+	#Odds for an Enderling to spawn with an Enderman in the Overworld, 0-1, default is 1.5%
+	#Range: 0.0 ~ 1.0
+	overOdds = 0.015
 
