@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Survive Create Prosper 4 1.16.5",
-  "version": "4.6.10",
+  "name": "Survive Create Prosper 4",
+  "version": "4.6.10a",
   "author": "Griefed",
   "files": [
     {
@@ -346,7 +346,7 @@
     },
     {
       "projectID": 250577,
-      "fileID": 3190372,
+      "fileID": 3165075,
       "required": true
     },
     {
