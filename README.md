@@ -2,7 +2,9 @@
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong><img src="https://i.griefed.de/images/2020/12/01/banner_survive_tall.png" alt="Survive" width="1128" height="490" /><img src="https://i.griefed.de/images/2020/12/01/banner_create_tall089730c47cb3691f.png" alt="Create" width="1128" height="490" /><img src="https://i.griefed.de/images/2020/12/01/banner_prosper_tall.png" alt="Prosper" width="1128" height="490" /></strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
-<p style="text-align: center;"><strong>Survive Create Prosper 4 is the continuation of <a href="https://www.curseforge.com/minecraft/modpacks/scp-survive-create-prosper">SCP Survive Create Prosper</a> but for the, as of me writing this, currently most recent version of Minecraft, version 1.16.4.</strong></p>
+<p><a href="https://discord.griefed.de"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/badge/Griefed.de-Discord-c0ffee?style=for-the-badge&amp;labelColor=325358&amp;logo=discord&amp;logoColor=white" alt="Griefed.de Discord" /></a></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Survive Create Prosper 4 is the continuation of <a href="https://www.curseforge.com/minecraft/modpacks/scp-survive-create-prosper">SCP Survive Create Prosper</a> but for the, as of me writing this, currently most recent version of Minecraft, version 1.16.5.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>Survive Create Prosper 4 offers a variety of mods which add new content, functionality, experiences and enhance the experience you're used to from vanilla Minecraft.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
@@ -56,7 +58,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port">BetterEnd (Forge) (by Beethoven92)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-ping-display">Better Ping Display (by Quintinity)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O' Plenty (by Forstride)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/blood-magic">Blood Magic  (by WayofTime)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/blood-magic">Blood Magic (by WayofTime)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/bookshelf">Bookshelf (by DarkhaxDev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/botania">Botania (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/botania-additions">Botania Additions (by ToMe250)</a></li>
@@ -102,7 +104,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ender-tendril">Ender Tendril (by SilentChaos512)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/endremastered">End Remastered (by jack_bagel)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/engineers-decor">Engineer's Decor (by wilechaote)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials">Enhanced Celestials - Blood Moons & Harvest Moons (by Corgi_Taco)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials">Enhanced Celestials - Blood Moons &amp; Harvest Moons (by Corgi_Taco)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/extended-bone-meal">Extended Bone Meal (by Serilum)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/extended-crafting">Extended Crafting (by BlakeBr0)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/extreme-reactors">Extreme Reactors (by ZeroNoRyouki)</a></li>
