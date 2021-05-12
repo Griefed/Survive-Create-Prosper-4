@@ -2,8 +2,8 @@
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong><img src="https://i.griefed.de/images/2020/12/01/banner_survive_tall.png" alt="Survive" width="1128" height="490" /><img src="https://i.griefed.de/images/2020/12/01/banner_create_tall089730c47cb3691f.png" alt="Create" width="1128" height="490" /><img src="https://i.griefed.de/images/2020/12/01/banner_prosper_tall.png" alt="Prosper" width="1128" height="490" /></strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
-<p><a href="https://discord.griefed.de"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/badge/Griefed.de-Discord-c0ffee?style=for-the-badge&amp;labelColor=325358&amp;logo=discord&amp;logoColor=white" alt="Griefed.de Discord" /></a></p>
-<p>&nbsp;</p>
+<p style="text-align: center;"><a href="https://discord.griefed.de"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/badge/Griefed.de-Discord-c0ffee?style=for-the-badge&amp;labelColor=325358&amp;logo=discord&amp;logoColor=white" alt="Griefed.de Discord" /></a></p>
+<p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong>Survive Create Prosper 4 is the continuation of <a href="https://www.curseforge.com/minecraft/modpacks/scp-survive-create-prosper">SCP Survive Create Prosper</a> but for the, as of me writing this, currently most recent version of Minecraft, version 1.16.5.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>Survive Create Prosper 4 offers a variety of mods which add new content, functionality, experiences and enhance the experience you're used to from vanilla Minecraft.</strong></p>
