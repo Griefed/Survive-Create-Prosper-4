@@ -1,0 +1,17 @@
+{
+	"x": -30,
+	"y": 109,
+	"width": 60,
+	"height": 30,
+	"u": 0,
+	"v": 150,
+	"hoverU": 0,
+	"hoverV": 0,
+	"texWidth": 60,
+	"texHeight": 60,
+	"widgets": false,
+	"texture": "scp:textures/gui/button_packring_font.png",
+	"action": "OPEN_URL",
+	"data": "https://hate9.gitlab.io/packring/",
+	"anchor": "MIDDLE_CENTER"
+}

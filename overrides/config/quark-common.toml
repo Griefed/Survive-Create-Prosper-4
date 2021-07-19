@@ -52,6 +52,7 @@
 	"Obsidian Plate" = true
 	"Pistons Move Tile Entities" = true
 	"Feeding Trough" = false
+	"Jukebox Automation" = true
 
 	[automation.dispensers_place_blocks]
 		Blacklist = ["minecraft:water", "minecraft:lava", "minecraft:fire"]
@@ -255,9 +256,10 @@
 	Camera = true
 	Trowel = true
 	Abacus = true
+	"Ambient Discs" = true
 
 	[tools.trowel]
-		#Amount of blocks placed is this value + 1. Default is 255 (4 stacks).
+		#Amount of blocks placed is this value + 1.
 		#Set to 0 to make the Trowel unbreakable
 		#Allowed values: [0,)
 		"Trowel Max Durability" = 255
@@ -268,7 +270,6 @@
 
 	[tools.ancient_tomes]
 		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing"]
-		"Apply Cost" = 35
 		#Set to 0 to not generate in Dungeons
 		"Dungeon Weight" = 20
 		"Item Quality" = 2
@@ -276,7 +277,6 @@
 		"Library Weight" = 30
 		#Set to 0 to not generate in Monster Boxes
 		"Monster Box Weight" = 5
-		"Merge Cost" = 35
 		#Set to 0 to not generate in Bastions
 		"Bastion Weight" = 25
 		#Set to 0 to not generate in Woodland Mansions
@@ -285,6 +285,8 @@
 		"Nether Fortress Weight" = 0
 		#Set to 0 to not generate in Underwater Ruins
 		"Underwater Ruin Weight" = 0
+		"Normal Upgrade Cost" = 10
+		"Limit Break Upgrade Cost" = 30
 
 	[tools.pathfinder_maps]
 		#In this section you can add custom Pathfinder Maps. This works for both vanilla and modded biomes.
@@ -338,6 +340,9 @@
 		#Set this to true to use the recipe without the Heart of Diamond, even if the Heart of Diamond is enabled.
 		"Never Use Heart Of Diamond" = false
 
+	[tools.ambient_discs]
+		"Drop On Spider Kill" = true
+
 [tweaks]
 	"Armed Armor Stands" = true
 	"Lock Rotation" = true
@@ -368,6 +373,7 @@
 	"Campfires Boost Elytra" = true
 	"Lava Bucket As Trash" = true
 	"Better Elytra Rocket" = true
+	"More Banner Layers" = true
 
 	[tweaks.sign_editing]
 		"Requires Empty Hand" = false
@@ -476,6 +482,10 @@
 		#How many times the algorithm for finding out where a block would be placed is allowed to turn. If you set this to large values (> 3) it may start producing weird effects.
 		"Max Bounces" = 1
 
+	[tweaks.more_banner_layers]
+		#Allowed values: [1,16]
+		"Layer Limit" = 16
+
 [world]
 	"New Stone Types" = true
 	"Lush Underground Biome" = true
@@ -570,6 +580,7 @@
 		"Max Ylevel" = 55
 		"Speleothems Per Chunk" = 12
 		"Tries Per Chunk" = 60
+		"Small Speleothems Increase Fall Damage" = true
 
 		[world.speleothems.dimensions]
 			Dimensions = []
@@ -1895,13 +1906,13 @@
 
 	[client.greener_grass]
 		"Leaves List" = ["minecraft:spruce_leaves", "minecraft:birch_leaves", "minecraft:oak_leaves", "minecraft:jungle_leaves", "minecraft:acacia_leaves", "minecraft:dark_oak_leaves", "minecraft:vine"]
-		"Blue Shift" = -30
-		"Green Shift" = 30
 		"Block List" = ["minecraft:large_fern", "minecraft:tall_grass", "minecraft:grass_block", "minecraft:fern", "minecraft:grass", "minecraft:potted_fern", "minecraft:sugar_cane"]
-		"Alpha Grass" = false
-		"Absolute Values" = false
-		"Red Shift" = -30
 		"Affect Leaves" = true
+
+		[client.greener_grass.color_matrix]
+			R = [0.89, 0.0, 0.0]
+			G = [0.0, 1.11, 0.0]
+			B = [0.0, 0.0, 0.89]
 
 [oddities]
 	"Totem Of Holding" = true
@@ -1970,6 +1981,8 @@
 		"Influence Max" = 4
 		#By default, enchantment rarities are fuzzed a bit to feel better with the new system. Set this to false to override this behaviour.
 		"Normalize Rarity" = true
+		#If you set this to false, the vanilla Enchanting Table will no longer automatically convert to the Matrix Enchanting table. You'll have to add a recipe for the Matrix Enchanting Table to make use of this.
+		"Automatically Convert" = true
 
 	[oddities.backpack]
 		"Enable Ravager Hide" = true

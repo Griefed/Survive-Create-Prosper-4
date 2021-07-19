@@ -3,7 +3,7 @@
     "version": "1.16.5",
     "modLoaders": [
       {
-        "id": "forge-36.1.32",
+        "id": "forge-36.1.62",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Survive Create Prosper 4 1.16.5",
-  "version": "4.6.11",
+  "version": "4.6.12",
   "author": "Griefed",
   "files": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 225643,
-      "fileID": 3367669,
+      "fileID": 3386883,
       "required": true
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "projectID": 74924,
-      "fileID": 3352484,
+      "fileID": 3389377,
       "required": true
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "projectID": 368718,
-      "fileID": 3365625,
+      "fileID": 3393971,
       "required": true
     },
     {
@@ -166,7 +166,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 3384667,
+      "fileID": 3393283,
       "required": true
     },
     {
@@ -336,7 +336,7 @@
     },
     {
       "projectID": 282947,
-      "fileID": 3186313,
+      "fileID": 3393408,
       "required": true
     },
     {
@@ -461,7 +461,7 @@
     },
     {
       "projectID": 486392,
-      "fileID": 3384004,
+      "fileID": 3389159,
       "required": true
     },
     {
@@ -501,7 +501,7 @@
     },
     {
       "projectID": 410500,
-      "fileID": 3292908,
+      "fileID": 3390081,
       "required": true
     },
     {
@@ -651,7 +651,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 3366626,
+      "fileID": 3393195,
       "required": true
     },
     {
@@ -671,7 +671,7 @@
     },
     {
       "projectID": 421850,
-      "fileID": 3261121,
+      "fileID": 3386962,
       "required": true
     },
     {
@@ -701,7 +701,7 @@
     },
     {
       "projectID": 314645,
-      "fileID": 3326711,
+      "fileID": 3392407,
       "required": true
     },
     {
@@ -756,7 +756,7 @@
     },
     {
       "projectID": 368293,
-      "fileID": 3385726,
+      "fileID": 3393812,
       "required": true
     },
     {
@@ -766,7 +766,7 @@
     },
     {
       "projectID": 328085,
-      "fileID": 3384222,
+      "fileID": 3386319,
       "required": true
     },
     {
@@ -826,7 +826,7 @@
     },
     {
       "projectID": 454372,
-      "fileID": 3357863,
+      "fileID": 3390753,
       "required": true
     },
     {
@@ -976,7 +976,7 @@
     },
     {
       "projectID": 396405,
-      "fileID": 3109917,
+      "fileID": 3388248,
       "required": true
     },
     {
@@ -1151,7 +1151,7 @@
     },
     {
       "projectID": 313866,
-      "fileID": 3301739,
+      "fileID": 3390489,
       "required": true
     },
     {
