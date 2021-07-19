@@ -22,9 +22,15 @@
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>Looking for a world to get started with Survive Create Prosper 4? Look no further, try <a title="Survive Create Prosper 4 Spawn Island" href="https://www.curseforge.com/minecraft/worlds/survive-create-prosper-4-spawn-island" target="_blank" rel="noopener noreferrer">Survive Create Prosper 4 Spawn Island</a>!</strong></p>
 <p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Also listed on Hate9's PackRing</strong><strong>:</strong></p>
+<p style="text-align: center;"><strong>(click me!)</strong></p>
+<p style="text-align: center;"><a title="PackRing" href="https://hate9.gitlab.io/packring/" target="_blank" rel="noopener noreferrer"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://gitlab.com/hate9/packring/-/raw/main/resources/packring-icon.png" alt="PackRing" width="100" height="100" /></strong></a></p>
+<p style="text-align: center;"><strong>Proudly sponsored by BisectHosting. Click the banner for 25% off of your first month of your new server!</strong></p>
+<p style="text-align: center;"><strong>(click me!)</strong></p>
 <p style="text-align: center;"><a title="BisectHosting Griefed Referral Link" href="https://www.bisecthosting.com/griefed" target="_blank" rel="noopener noreferrer"><strong><img src="https://i.griefed.de/images/2021/02/10/banner-3.png" alt="BisectHosting Griefed" width="1128" height="178" /></strong></a></p>
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><strong>Modlist:</strong></p>
+<p style="text-align: left;"><strong>Modlist:</strong></p>
 <div class="spoiler">
 <p style="text-align: center;">&nbsp;</p>
 <ul>
@@ -75,7 +81,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads">Cooking for Blockheads (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O' Plenty (by Forstride)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/einsteins-library">Einstein's Library (by MincraftEinstein)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/blood-magic">Blood Magic  (by WayofTime)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/blood-magic">Blood Magic (by WayofTime)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing">Precise Block Placing (by NinjaPhenix)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod">Just Another Rotten Flesh to Leather Mod (by alexdaum1)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/placeable-blaze-rods">Placeable Blaze Rods (by Serilum)</a></li>
@@ -130,7 +136,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tesseract">Tesseract (by SuperMartijn642)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core">Pam's HarvestCraft 2 - Food Core (by pamharvestcraft)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark-oddities">Quark Oddities (by Vazkii)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials">Enhanced Celestials - Blood Moons & Harvest Moons (by Corgi_Taco)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials">Enhanced Celestials - Blood Moons &amp; Harvest Moons (by Corgi_Taco)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/sit">Sit (by bl4ckscor3)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-one-probe">The One Probe (by McJty)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops">Pam's HarvestCraft 2 - Crops (by pamharvestcraft)</a></li>
