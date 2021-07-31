@@ -63,4 +63,10 @@
 	#How many Soulstone veins should spawn in a chunk.
 	#Range: 0 ~ 128
 	soulstoneSpawnRate = 4
+	#The list of biome IDs that Prosperity Ore veins can spawn in.
+	prosperityBiomeWhitelist = []
+	#The list of biome IDs that Inferium Ore veins can spawn in.
+	inferiumBiomeWhitelist = []
+	#The list of biome IDs that Soulstone veins can spawn in.
+	soulstoneBiomeWhitelist = []
 

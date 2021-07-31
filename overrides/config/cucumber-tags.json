@@ -26,5 +26,7 @@
   "forge:dusts/sulfur": "immersiveengineering:dust_sulfur",
   "forge:ingots/nickel": "immersiveengineering:ingot_nickel",
   "forge:dusts/niter": "null",
-  "forge:gems/apatite": "null"
+  "forge:gems/apatite": "null",
+  "forge:gems/ruby": "null",
+  "forge:gems/sapphire": "null"
 }
