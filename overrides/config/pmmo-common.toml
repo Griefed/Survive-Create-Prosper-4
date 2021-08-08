@@ -183,7 +183,7 @@
 
 [Levels]
 	#What is the global max level
-	#Range: 1 ~ 1000000
+	#Range: 1 ~ 2000000000
 	maxLevel = 120
 	#Every how many levels should a level up broadcast be sent to all players? (10 = every 10 levels)
 	#Range: 1 ~ 1000000
