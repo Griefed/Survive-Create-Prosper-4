@@ -23,4 +23,7 @@
 	chanceBeeLeavesItsStinger = 0.33
 	#When enabled, bees die after stinging a mob. This takes roughly a few minutes.
 	beesDieFromStingingMob = true
+	#This value determines the size of a bee. By default 0.25, which means they are 1/4th of their vanilla size. Set to 1.0 to disable the different bee size feature.
+	#Range: 0.01 ~ 5.0
+	beeSizeModifier = 0.25
 

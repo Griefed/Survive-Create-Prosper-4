@@ -16,6 +16,8 @@
 	logXpGainedInDebugLog = false
 	#Should a warning come up if your Project MMO is outdated?
 	warnOutdatedVersion = true
+	#Should right click xp be enabled?
+	rightClickXpEnabled = true
 
 [Party]
 	#How much bonus xp a Party gains extra, per player? (5 = 1 player -> 5% xp bonus, 2 players -> 10% xp bonus
@@ -180,6 +182,8 @@
 	placeReqEnabled = true
 	#When a Wear requirement is not met, should the item be dropped?
 	strictReqWear = false
+	#Should dimensional travel requirements be enabled? false means no requirements
+	dimensionTravelReqEnabled = true
 
 [Levels]
 	#What is the global max level

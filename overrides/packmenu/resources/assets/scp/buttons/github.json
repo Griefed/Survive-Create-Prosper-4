@@ -10,7 +10,7 @@
 	"texWidth": 120,
 	"texHeight": 60,
 	"texture": "scp:textures/gui/button_github.png",
-	"fontColor": 3298136,
+	"fontColor": 8487297,
 	"hoverFontColor": 12648430,
 	"widgets": false,
 	"action": "OPEN_URL",
