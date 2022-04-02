@@ -1,5 +1,5 @@
 #The format the date will be displayed on the image
-image_date_format = "dd/MM/yyyy HH:mm"
+image_date_format = "yyyy/MM/dd HH:mm"
 last_image_path = ""
 #If the image item should render the actual image (This may cause poor performance)
 render_image_item = true

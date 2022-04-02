@@ -3,6 +3,9 @@ cowJarEnabled = true
 #The amount of milk the cow in a jar generates per tick.
 #Range: 0.0 ~ 3.4028234663852886E38
 cowJarMilkPerTick = 0.5
+#Ex Compressum compatibility. Multiplier applied to the milk per tick for Compressed Cow in a Jar.
+#Range: 0.0 ~ 3.4028234663852886E38
+compressedCowJarMilkMultiplier = 9.0
 #Set this to true if you'd like the sink to require water to be piped in, instead of providing infinite of it.
 sinkRequiresWater = false
 #Enabling this will make the kitchen counters have twice as much inventory space.
@@ -17,7 +20,4 @@ ovenFuelTimeMultiplier = 1.0
 ovenCookTimeMultiplier = 1.0
 #Set this to true if you'd like the oven to only accept cooking oil as fuel (requires Pam's Harvestcraft)
 ovenRequiresCookingOil = false
-#Ex Compressum compatibility. Multiplier applied to the milk per tick for Compressed Cow in a Jar.
-#Range: 0.0 ~ 3.4028234663852886E38
-compressedCowJarMilkMultiplier = 9.0
 

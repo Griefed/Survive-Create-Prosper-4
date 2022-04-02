@@ -8,13 +8,10 @@
 artifact_rarity = 1.0
 
 [campsite]
-	#Whether to use wooden chests from other mods when generating campsites
-	#(keeping this enabled may make it easier to distinguish them from mimics)
-	use_modded_chests = true
 	#List of biome IDs in which campsites are not allowed to generate
 	#End and nether biomes are excluded by default
 	#To blacklist all biomes from a single mod, use "modid:*"
-	biome_blacklist = ["minecraft:void"]
+	biome_blacklist = ["minecraft:void", "undergarden:*", "the_bumblezone:*", "twilightforest:*"]
 	#Rarity of campsites generating in the world
 	#The chance a campsite generates in a specific chunk is 1/rarity
 	#A rarity of 1 will generate a campsite in every chunk, while 10000 will generate no campsites
@@ -33,4 +30,7 @@ artifact_rarity = 1.0
 	#Probability for an ore vein to generate underneath a campsite
 	#Range: 0.0 ~ 1.0
 	ore_chance = 0.25
+	#Whether to use wooden chests from other mods when generating campsites
+	#(keeping this enabled may make it easier to distinguish them from mimics)
+	use_modded_chests = true
 

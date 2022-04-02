@@ -1,4 +1,82 @@
 
+#General Mod Configuration
+[general_mod_configuration]
+	#Enable the mass addition of Dungeons Gear items to various vanilla loot tables by the mod itself. 
+	#If you prefer to write your own loot pools via datapack or simply don't want it, disable this feature. [true / false]
+	enableDungeonsGearLoot = true
+	#Enable the salvaging of Dungeons Gear items by shift-right clicking villagers with the item in your hand. 
+	#If you have other mods messing with shift-right clicking villagers or simply don't want it, disable this feature. [true / false]
+	enableSalvaging = true
+	#Enable Weaponsmith, Fletcher, Armorer and Leatherworker Villagers trading Dungeons Gear items. 
+	#If you have other mods messing with the trades of those professions or simply don't want it, disable this feature. [true / false]
+	enableVillagerTrades = true
+	#Enable Friendly Fire on Pets 
+	#If you dislike (or outright hate) your pets and would like to kill them, enable this feature. [true / false]
+	enableFriendlyPetFire = false
+	#Enable Librarian Villagers trading books enchanted with this mod's enchantments. 
+	#Disable this feature if you want to prevent this. [true / false]
+	enableEnchantmentTrades = true
+	#Enable enchantments from this mod appearing in any type of generated loot. 
+	#Disable this feature if you want to prevent this. [true / false]
+	enableEnchantmentLoot = true
+	#Enable applying enchantments from this mod on non-Dungeons gear using the Enchanting Table. 
+	#If you don't want your enchantments to become too cluttered for non-Dungeons gear, or simply don't like it, disable this feature. 
+	#You can still use the anvil to put the enchantments onto them and have them work correctly. [true / false]
+	enableEnchantsOnNonDungeonsGear = true
+	#Enable applying enchantments together to create combinations would  be considered too overpowered. 
+	#If you don't want overpowered enchantment combinations, like Sharpness and Committed on a sword, disable this feature. [true / false]
+	enableOverpoweredEnchantmentCombos = false
+	#Add enchantments that should be prevented from being applied to any gear. 
+	#To do so, enter their registry names.
+	enchantmentBlacklist = ["dungeons_gear:lucky_explorer"]
+	#Add enchantments that should be designated as treasure-only. 
+	#To do so, enter their registry names.
+	treasureOnlyEnchantments = []
+	#Enable melee weapons appearing in chest loot and trades. 
+	#If you want to disable obtaining this mod's melee weapons, disable this feature. [true / false]
+	enableMeleeWeaponLoot = true
+	#Enable ranged weapons appearing in chest loot and trades. 
+	#If you want to disable obtaining this mod's ranged weapons, disable this feature. [true / false]
+	enableRangedWeaponLoot = true
+	#Enable armors appearing in chest loot and trades. 
+	#If you want to disable obtaining this mod's armors, disable this feature. [true / false]
+	enableArmorLoot = true
+	#Enable artifacts appearing in chest loot and trades. 
+	#If you want to disable obtaining this mod's artifacts, disable this feature. [true / false]
+	enableArtifactLoot = true
+	#Enable melee weapons appearing in their own tab in the creative menu. 
+	#Disabling this feature puts them in the COMBAT tab. [true / false]
+	enableMeleeWeaponTab = true
+	#Enable ranged weapons appearing in their own tab in the creative menu. 
+	#Disabling this feature puts them in the COMBAT tab. [true / false]
+	enableRangedWeaponTab = true
+	#Enable armors appearing in their own tab in the creative menu. 
+	#Disabling this feature puts them in the COMBAT tab. [true / false]
+	enableArmorTab = true
+	#Enable artifacts appearing in their own tab in the creative menu. 
+	#Disabling this feature puts them in the COMBAT tab. [true / false]
+	enableArtifactTab = true
+	#The emerald value for a common weapon or armor [0-64, default: 12]
+	#Range: 0 ~ 64
+	commonItemValue = 12
+	#The emerald value for a unique weapon or armor [0-64, default: 24]
+	#Range: 0 ~ 64
+	uniqueItemValue = 24
+	#The emerald value for an artifact [0-64, default: 24]
+	#Range: 0 ~ 64
+	artifactValue = 24
+
+#Compatibility Configuration
+[compatibility_configuration]
+	#Enable Elenai Dodge 2 compatibility. Effects that trigger on jump will now trigger on dodge. 
+	#Does nothing if Elenai Dodge is not installed. [true / false]
+	enableElenaiDodgeCompat = true
+	#Enable Project: War Dance compatibility. 
+	#Dual wield weapon offhand functions are suppressed in favor of using War Dance's offhand attacks. 
+	#Block reach attributes are added to spears so they benefit from skills. 
+	#Does nothing if Project: War Dance is not installed. [true / false]
+	enableProjectWarDanceCompat = true
+
 #Item Configuration
 [item_configuration]
 	#Set the durability multiplier for armors that can be classified as a vest, such as Hunter's Armor. [0-1024, default: 14
@@ -34,81 +112,6 @@
 	#Set the durability for artifacts. [0-1024, default: 64
 	#Range: 0 ~ 1024
 	artifactDurability = 64
-
-#General Mod Configuration
-[general_mod_configuration]
-	#Enable Weaponsmith, Fletcher, Armorer and Leatherworker Villagers trading Dungeons Gear items. 
-	#If you have other mods messing with the trades of those professions or simply don't want it, disable this feature. [true / false]
-	enableVillagerTrades = true
-	#The emerald value for an artifact [0-64, default: 24]
-	#Range: 0 ~ 64
-	artifactValue = 24
-	#Enable applying enchantments from this mod on non-Dungeons gear using the Enchanting Table. 
-	#If you don't want your enchantments to become too cluttered for non-Dungeons gear, or simply don't like it, disable this feature. 
-	#You can still use the anvil to put the enchantments onto them and have them work correctly. [true / false]
-	enableEnchantsOnNonDungeonsGear = true
-	#The emerald value for a common weapon or armor [0-64, default: 12]
-	#Range: 0 ~ 64
-	commonItemValue = 12
-	#Enable applying enchantments together to create combinations would  be considered too overpowered. 
-	#If you don't want overpowered enchantment combinations, like Sharpness and Committed on a sword, disable this feature. [true / false]
-	enableOverpoweredEnchantmentCombos = false
-	#Enable the mass addition of Dungeons Gear items to various vanilla loot tables by the mod itself. 
-	#If you prefer to write your own loot pools via datapack or simply don't want it, disable this feature. [true / false]
-	enableDungeonsGearLoot = true
-	#The emerald value for a unique weapon or armor [0-64, default: 24]
-	#Range: 0 ~ 64
-	uniqueItemValue = 24
-	#Enable the salvaging of Dungeons Gear items by shift-right clicking villagers with the item in your hand. 
-	#If you have other mods messing with shift-right clicking villagers or simply don't want it, disable this feature. [true / false]
-	enableSalvaging = true
-	#Enable Librarian Villagers trading books enchanted with this mod's enchantments. 
-	#Disable this feature if you want to prevent this. [true / false]
-	enableEnchantmentTrades = true
-	#Enable enchantments from this mod appearing in any type of generated loot. 
-	#Disable this feature if you want to prevent this. [true / false]
-	enableEnchantmentLoot = true
-	#Add enchantments that should be prevented from being applied to any gear. 
-	#To do so, enter their registry names.
-	enchantmentBlacklist = ["dungeons_gear:lucky_explorer"]
-	#Add enchantments that should be designated as treasure-only. 
-	#To do so, enter their registry names.
-	treasureOnlyEnchantments = []
-	#Enable melee weapons appearing in chest loot and trades. 
-	#If you want to disable obtaining this mod's melee weapons, disable this feature. [true / false]
-	enableMeleeWeaponLoot = true
-	#Enable ranged weapons appearing in chest loot and trades. 
-	#If you want to disable obtaining this mod's ranged weapons, disable this feature. [true / false]
-	enableRangedWeaponLoot = true
-	#Enable armors appearing in chest loot and trades. 
-	#If you want to disable obtaining this mod's armors, disable this feature. [true / false]
-	enableArmorLoot = true
-	#Enable artifacts appearing in chest loot and trades. 
-	#If you want to disable obtaining this mod's artifacts, disable this feature. [true / false]
-	enableArtifactLoot = true
-	#Enable melee weapons appearing in their own tab in the creative menu. 
-	#Disabling this feature puts them in the COMBAT tab. [true / false]
-	enableMeleeWeaponTab = true
-	#Enable ranged weapons appearing in their own tab in the creative menu. 
-	#Disabling this feature puts them in the COMBAT tab. [true / false]
-	enableRangedWeaponTab = true
-	#Enable armors appearing in their own tab in the creative menu. 
-	#Disabling this feature puts them in the COMBAT tab. [true / false]
-	enableArmorTab = true
-	#Enable artifacts appearing in their own tab in the creative menu. 
-	#Disabling this feature puts them in the COMBAT tab. [true / false]
-	enableArtifactTab = true
-
-#Compatibility Configuration
-[compatibility_configuration]
-	#Enable Elenai Dodge 2 compatibility. Effects that trigger on jump will now trigger on dodge. 
-	#Does nothing if Elenai Dodge is not installed. [true / false]
-	enableElenaiDodgeCompat = true
-	#Enable Project: War Dance compatibility. 
-	#Dual wield weapon offhand functions are suppressed in favor of using War Dance's offhand attacks. 
-	#Block reach attributes are added to spears so they benefit from skills. 
-	#Does nothing if Project: War Dance is not installed. [true / false]
-	enableProjectWarDanceCompat = true
 
 #Combat Configuration
 [combat_configuration]

@@ -1,4 +1,11 @@
 
+#Settings related to checking for a very specific Minecraft version.
+[java-version]
+	#Whether or not the Java version should be checked.
+	enabled = true
+	#What is the minimum version of Java to look for?
+	minVersion = "1.8.0_162"
+
 #Settings related to the Java architecture.
 [jvm-architecture]
 	#Should people using 32 bit Java be warned and asked to use 64 bit Java instead?
@@ -10,11 +17,4 @@
 	warnLowMemory = true
 	#The amount of recommended ram to play the pack. This is in megabytes.
 	recommendedRam = 8192
-
-#Settings related to checking for a very specific Minecraft version.
-[java-version]
-	#What is the minimum version of Java to look for?
-	minVersion = "1.8.0_162"
-	#Whether or not the Java version should be checked.
-	enabled = true
 

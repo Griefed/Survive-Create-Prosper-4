@@ -2,7 +2,7 @@
 versionCheck = false
 # does the splashscreen run
 splashscreen = false
-defaultConfigPath = "defaultconfigs"
+defaultConfigPath = "config"
 # max threads for parallel loading : -1 uses Runtime#availableProcessors
 maxThreads = -1
 
