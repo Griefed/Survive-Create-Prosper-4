@@ -120,21 +120,8 @@ mods.extendedcrafting.TableCrafting.addShaped("reinforced_turbinecreativesteamge
 	[<item:bigreactors:reinforced_turbinecasing>, <item:bigreactors:cyanite_block>, <item:bigreactors:reinforced_turbinechargingportfe>, <item:bigreactors:cyanite_block>, <item:bigreactors:reinforced_turbinerotorblade>], 
 	[<item:bigreactors:cyanite_block>, <item:bigreactors:reinforced_turbinepowertapfe_passive>, <item:bigreactors:cyanite_block>, <item:bigreactors:reinforced_turbinepowertapfe_active>, <item:bigreactors:cyanite_block>]]);
 
-
 //The One Probe Creative Probe
 mods.extendedcrafting.TableCrafting.addShaped("creativeprobe", 0, <item:theoneprobe:creativeprobe>, [
 	[<item:extendedcrafting:ender_nugget>, <item:extendedcrafting:ender_nugget>, <item:extendedcrafting:ender_nugget>], 
 	[<item:extendedcrafting:ender_nugget>, <item:theoneprobe:probe>, <item:extendedcrafting:ender_nugget>], 
 	[<item:extendedcrafting:ender_nugget>, <item:extendedcrafting:ender_nugget>, <item:extendedcrafting:ender_nugget>]]);
-
-//Botania The Everlasting Guilty Pool
-mods.extendedcrafting.TableCrafting.addShaped("creative_pool", 4, <item:botania:creative_pool>, [
-	[<item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:natura_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>], 
-	[<item:botania:mana_pylon>, <item:botania:gaia_pylon>, <item:botania:gaia_ingot>, <item:botania:natura_pylon>, <item:botania:natura_pylon>, <item:botania:natura_pylon>, <item:botania:gaia_ingot>, <item:botania:gaia_pylon>, <item:botania:mana_pylon>], 
-	[<item:botania:mana_pylon>, <item:botania:gaia_ingot>, <item:botania:gaia_pylon>, <item:botania:gaia_ingot>, <item:mythicbotany:mana_collector>, <item:botania:gaia_ingot>, <item:botania:gaia_pylon>, <item:botania:gaia_ingot>, <item:botania:mana_pylon>], 
-	[<item:botania:mana_pylon>, <item:botania:natura_pylon>, <item:botania:gaia_ingot>, <item:botania:gaia_pylon>, <item:botania:mana_distributor>, <item:botania:gaia_pylon>, <item:botania:gaia_ingot>, <item:botania:natura_pylon>, <item:botania:mana_pylon>], 
-	[<item:botania:natura_pylon>, <item:botania:natura_pylon>, <item:botania:mana_pool>, <item:botania:mana_distributor>, <item:extendedcrafting:ultimate_singularity>, <item:botania:mana_distributor>, <item:botania:fabulous_pool>, <item:botania:natura_pylon>, <item:botania:natura_pylon>], 
-	[<item:botania:mana_pylon>, <item:botania:natura_pylon>, <item:botania:gaia_ingot>, <item:botania:gaia_pylon>, <item:botania:mana_distributor>, <item:botania:gaia_pylon>, <item:botania:gaia_ingot>, <item:botania:natura_pylon>, <item:botania:mana_pylon>], 
-	[<item:botania:mana_pylon>, <item:botania:gaia_ingot>, <item:botania:gaia_pylon>, <item:botania:gaia_ingot>, <item:botania:diluted_pool>, <item:botania:gaia_ingot>, <item:botania:gaia_pylon>, <item:botania:gaia_ingot>, <item:botania:mana_pylon>], 
-	[<item:botania:mana_pylon>, <item:botania:gaia_pylon>, <item:botania:gaia_ingot>, <item:botania:natura_pylon>, <item:botania:natura_pylon>, <item:botania:natura_pylon>, <item:botania:gaia_ingot>, <item:botania:gaia_pylon>, <item:botania:mana_pylon>], 
-	[<item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:natura_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>, <item:botania:mana_pylon>]]);
