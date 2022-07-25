@@ -8,14 +8,12 @@
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>Survive Create Prosper 4 offers a variety of mods which add new content, functionality, experiences and enhance the experience you're used to from vanilla Minecraft.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
-<p style="text-align: center;"><strong>Survive Create Prosper aims to expand the world with technology, magic, exploration and adventure without outstaying its welcome.</strong></p>
+<p style="text-align: center;"><strong>Survive Create Prosper aims to expand the world with technology, exploration and adventure without outstaying its welcome.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>Biomes O'Plenty, Oh The Biomes You Will Go To, Traverse and more mods expand the world of Minecraft with beautiful new biomes to explore.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>Applied Energistics, Immersive Engineering / Petroleum / Railroading, Extreme Reactors, SecurityCraft and more mods aim to satisfy your technologie needs whilst staying immersive.</strong></p>
-<p style="text-align: center;"><strong>&nbsp;</strong></p>
-<p style="text-align: center;"><strong>Botania, Blood Magic, Psi and other mods aim to quell your hunger for magical prowess.</strong></p>
-<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>A variety of useful, decorative or cool mods like Artifacts, Camera Mod, Cooking for Blockheads, Pam's Harvestcraft, Macaw's mods, Mystical Agriculture and addons, Paintings++ and lots of other mods add to the world, so you will always have something to explore, build, decorate or create.</strong></p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
 <p style="text-align: center;"><strong>That's just a small example of what's included in SCP. So go ahead and give it a try! See the modlist below to see whether there's something of interest for you!</strong></p>
@@ -28,7 +26,7 @@
 <p style="text-align: center;"><a title="PackRing" href="https://hate9.gitlab.io/packring/" target="_blank" rel="noopener noreferrer"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://gitlab.com/packring/packring/-/raw/main/resources/packring-icon.png" alt="PackRing" width="100" height="100" /></strong></a></p>
 <p style="text-align: center;"><strong>Proudly sponsored by BisectHosting. Click the banner for 25% off of your first month of your new server!</strong></p>
 <p style="text-align: center;"><strong>(click me!)</strong></p>
-<p style="text-align: center;"><a title="BisectHosting Griefed Referral Link" href="https://www.bisecthosting.com/griefed" target="_blank" rel="noopener noreferrer"><strong><img src="https://i.griefed.de/images/2021/02/10/banner-3.png" alt="BisectHosting Griefed" width="1128" height="178" /></strong></a></p>
+<p style="text-align: center;"><a title="BisectHosting Griefed Referral Link" href="https://www.bisecthosting.com/griefed" target="_blank" rel="noopener noreferrer"><strong><img src="https://www.bisecthosting.com/partners/custom-banners/19fc7e4c-2f38-47c5-b750-27734eef4643.png" alt="BisectHosting Griefed" width="1128" height="178" /></strong></a></p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: left;"><strong>Modlist:</strong></p>
 <div class="spoiler">
@@ -80,7 +78,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads">Cooking for Blockheads (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O' Plenty (by Forstride)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/einsteins-library">Einstein's Library (by MincraftEinstein)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing">Precise Block Placing (by NinjaPhenix)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing">Precise Block Placing (by 3llemes)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod">Just Another Rotten Flesh to Leather Mod (by alexdaum1)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/placeable-blaze-rods">Placeable Blaze Rods (Forge) (by Serilum)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/valhelsia-core">Valhelsia Core (by ValhelsiaTeam)</a></li>
@@ -129,7 +127,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tesseract">Tesseract (by SuperMartijn642)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core">Pam's HarvestCraft 2 - Food Core (by pamharvestcraft)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark-oddities">Quark Oddities (by Vazkii)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials">Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons (by Corgi_Taco)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials">Enhanced Celestials - Blood, Blue, &amp; Harvest (Super) Moons (by Corgi_Taco)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/sit">Sit (by bl4ckscor3)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-one-probe">The One Probe (by McJty)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops">Pam's HarvestCraft 2 - Crops (by pamharvestcraft)</a></li>
@@ -181,18 +179,18 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/appleskin">AppleSkin (by squeek502)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ring-of-blink-forge">Ring of Blink [FORGE] (by kwpugh)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/wool-tweaks">Wool Tweaks (Forge) (by Serilum)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/architectury-forge">Architectury API (Forge) (by shedaniel)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/architectury-api">Architectury API (Fabric/Forge) (by shedaniel)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/aquaculture">Aquaculture 2 (by Shadowclaimer)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tipthescales">TipTheScales (by Jaredlll08)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/oldjavawarning">OldJavaWarning (by DarkhaxDev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mystical-adaptations">Mystical Adaptations (by Focamacho)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/login-protection">Login Protection[Forge/Fabric] (by someaddon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib">SuperMartijn642's Core Lib (by SuperMartijn642)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence">Simple Discord Rich Presence (by Sunekaer)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence">Simple Discord Rich Presence (Forge / Fabric) (by Sunekaer)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge">FTB Essentials (Forge) (by FTB)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay">Fast Leaf Decay (by olafskiii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/morevanillalib">MoreVanillaLib (by MelanX)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-view">Dynamic View[Forge/Fabric] (by someaddon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-view">Dynamic View[Forge] (by someaddon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/starter-kit">Starter Kit (Forge) (by Serilum)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">Mouse Tweaks (by YaLTeR)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/iron-chests">Iron Chests (by ProgWML6)</a></li>
@@ -242,7 +240,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-advancements">Better Advancements (by way2muchnoise)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/masonry">Masonry (by Shadowclaimer)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/endergetic">The Endergetic Expansion (by TeamAbnormals)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/durability101">Durability101 Forge/Fabric 1.12-1.18 (by ShayBox)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/durability101">Durability101 Forge/Fabric 1.12-1.19 (by ShayBox)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/security-craft">Security Craft (by Geforce132)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/whisperwoods">Whisperwoods (by itsmeowdev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/champions">Champions (by TheIllusiveC4)</a></li>
